@@ -1,0 +1,6 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Pavel Aracena">
+  <rect x="1" y="1" width="38" height="38" rx="10" stroke="currentColor" stroke-width="1.6"/>
+  <path d="M11 29V11H19.2C22.4 11 25 13.4 25 16.6C25 19.8 22.4 22.1 19.2 22.1H14.6V29H11Z" fill="currentColor"/>
+  <path d="M14.6 14.4H18.8C20.2 14.4 21.3 15.4 21.3 16.7C21.3 18 20.2 19 18.8 19H14.6V14.4Z" fill="var(--color-bg)"/>
+  <path d="M27 24L30.6 17.6L34.2 24H31.9V29H29.3V24H27Z" fill="var(--color-primary)"/>
+</svg>
